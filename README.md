@@ -1,5 +1,5 @@
-# quiz-tradutor
-um tradutor onde gera uma palavra aleatória em ingles para você traduzir e caso com alguns segundos de espera para você responder
+# Quiz-tradutor
+## um tradutor onde gera uma palavra aleatória em ingles para você traduzir e caso com alguns segundos de espera para você responder
 
 <td> hjhkkfkdbdbskbf</td>
 
