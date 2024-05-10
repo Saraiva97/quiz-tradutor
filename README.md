@@ -3,9 +3,9 @@
 
 
 **Objetivo do Projeto**
--Proporcionar uma experiência divertida e educativa para expandir o vocabulário em inglês.
--Utilizar uma abordagem interativa para o aprendizado de idiomas.
--Desenvolver habilidades linguísticas de forma acessível e envolvente.
+- Proporcionar uma experiência divertida e educativa para expandir o vocabulário em inglês.
+- Utilizar uma abordagem interativa para o aprendizado de idiomas.
+- Desenvolver habilidades linguísticas de forma acessível e envolvente.
 
 
 <div align="center">
@@ -13,11 +13,7 @@
 </div>
 
 
-
-![jogotraduçao]()
-
-
 ## Como Funciona
--Ao acessar a aplicação, você será apresentado a uma palavra aleatória em inglês.
--Após alguns segundos, a tradução para o português será exibida.
--Explore novas palavras de forma dinâmica e intuitiva.
+- Ao acessar a aplicação, você será apresentado a uma palavra aleatória em inglês.
+- Após alguns segundos, a tradução para o português será exibida.
+- Explore novas palavras de forma dinâmica e intuitiva.
